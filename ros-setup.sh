@@ -9,3 +9,4 @@ rosdep update
 echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 sudo apt-get install python-rosinstall
+sudo apt-get install ros-kinetic-jackal-simulator ros-kinetic-jackal-desktop
